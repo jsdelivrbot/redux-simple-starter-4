@@ -30,3 +30,5 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 
  * "props" will arrive as an argument for our functional component
  * "props" in a class based component are available in any method by using "this.props"
+ 
+ State is good for isolated component changes, where props can be injected throughout the application
